@@ -4,7 +4,7 @@
             "name" : "Stereo Dash",
             "star" : 1,
             "orbs" : 30,
-            "levelPath" : "beatdash.github.io/beatdash/Levels/1.json",
+            "levelPath" : "https://beatdash.github.io/beatdash/Levels/1.json",
             "createdby" : "Beat Dash",
             "levelRequired" : 1
         }
