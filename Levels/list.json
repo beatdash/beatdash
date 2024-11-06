@@ -5,7 +5,8 @@
             "star" : 1,
             "orbs" : 30,
             "levelPath" : "beatdash.github.io/Levels/1.json",
-            "createdby" : "Beat Dash"
+            "createdby" : "Beat Dash",
+            "levelRequired" : 1
         }
     ]
 }
